@@ -17,5 +17,6 @@ SIIGE is meant to be a help to writers like me who don't have a lot of coding kn
 # Planned Features and those which I am thinking about:
 
 * Implement treasure pool to get items after a treasure has been found on the map
+* Split all files, functions, etc. to their own files for better readability?
 
 If empty, suggest something and maybe the brain will be able to compute it.
