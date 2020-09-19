@@ -13,4 +13,6 @@ This is meant to become the space where the Simple and Intuitive Inky Game Engin
 
 # Planned Features and those which I am thinking about:
 
+* Implement treasure pool to get items after a treasure has been found on the map
+
 If empty, suggest something and maybe the brain will be able to compute it.
