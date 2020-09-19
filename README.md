@@ -1,4 +1,4 @@
-# SIIGE-Simple-Intuitive-Inky-Game-Engine
+# SIIGE - Simple Intuitive Inky Game Engine
 
 This is meant to become the space where the Simple and Intuitive Inky Game Engine (short SIIGE) will be uploaded.
 SIIGE was written in Ink by Inklestudios and should only be used with that and/or Unity. (If you get that to work hit me up. I have no idea of Unity.)
