@@ -4,12 +4,12 @@ This is meant to become the space where the Simple and Intuitive Inky Game Engin
 
 # What is already implemented?
 
-5x5 Map System
-Fighting System
-5x5 Map System with Fights
-EXP System
-Leveling System
-Inventory System
+-5x5 Map System
+-5x5 Map System with Fights
+-Fighting System
+  -EXP System
+  -Leveling System
+-Inventory System
 
 # Planned Features and those which I am thinking about:
 
