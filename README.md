@@ -42,6 +42,7 @@ In our case Ink provides the backbone of the engine by being the engine itself t
 * Make the CSS work so the map doesnt get blocked anymore on smaller screens.
 * Create a new CSS so the index.html can have different get-ups for example: Fantasy, Sci-fi etc.
 * Make the map interact with the story
+* Make the layer changer nav also appear on fullscreen
 * A playlist so people can also listen to music tracks that would resonate with the story.
 
 If empty, suggest something and maybe the brain will be able to compute it.
