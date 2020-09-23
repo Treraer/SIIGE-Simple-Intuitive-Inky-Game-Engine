@@ -37,8 +37,9 @@ In our case Ink provides the backbone of the engine by being the engine itself t
 * Implement treasure pool to get items after a treasure has been found on the map
 * Split all files, functions, etc. to their own files for better readability?
 
-# Wishfull thinking when it comes to features:
+# Wishfull thinking when it comes to features (help appreciated):
 
+* Make the CSS work so the map doesnt get blocked anymore on smaller screens.
 * Make the map interact with the story
 * A playlist so people can also listen to music tracks that would resonate with the story.
 
