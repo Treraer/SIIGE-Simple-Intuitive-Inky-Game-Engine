@@ -9,8 +9,8 @@ SIIGE is meant to be a help to writers like me who don't have a lot of coding kn
 
 The major features include two things. 
 
-The Game Engine (through Inky or Ink)
-Interactive Map. (through Mapbox)
+* The Game Engine (through Inky or Ink)
+* Interactive Map. (through Mapbox)
 
 # The Map
 
