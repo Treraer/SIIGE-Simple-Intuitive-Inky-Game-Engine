@@ -40,6 +40,6 @@ In our case Ink provides the backbone of the engine by being the engine itself t
 # Wishfull thinking when it comes to features:
 
 * Make the map interact with the story
-* Playlist so people can also listen to music tracks
+* A playlist so people can also listen to music tracks that would resonate with the story.
 
 If empty, suggest something and maybe the brain will be able to compute it.
