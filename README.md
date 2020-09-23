@@ -40,6 +40,7 @@ In our case Ink provides the backbone of the engine by being the engine itself t
 # Wishfull thinking when it comes to features (help appreciated):
 
 * Make the CSS work so the map doesnt get blocked anymore on smaller screens.
+* Create a new CSS so the index.html can have different get-ups for example: Fantasy, Sci-fi etc.
 * Make the map interact with the story
 * A playlist so people can also listen to music tracks that would resonate with the story.
 
