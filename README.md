@@ -5,6 +5,8 @@ SIIGE was written in Ink by Inklestudios and should only be used with that and/o
 
 SIIGE is meant to be a help to writers like me who don't have a lot of coding knowledge but still want to use certain special features of Ink. I primarily have written this for myself, but in the end I thought I should share it with people if they want to use it. It shares a few system which are customizable with a bit of coding knowledge since I tried to make it as acessible as possible. The current system that are implemented can be found below. Should any section need more documentation or explanation let me know and I will try to explain it in more detail.
 
+The folder with the current SIIGE build also has an Inky file with a User Manual that explains the basic features. You can either open it on it's own or you just open the main SIIGE file.
+
 # Major features
 
 The major features include two things. 
@@ -15,7 +17,7 @@ The major features include two things.
 # The Map
 
 The map is added through Mapbox and is meant to provide players/readers a possibility to track their journey (although still only by hand with no automation)
-Currently it holds the fantasy map called Chevillia. I created this one for my own purpose with the Azgaar Generator and QGis but anyone can use it if they want to. You can also create your own maps and implement them into the engine and one day I will write a documentation for it but not today. If you want a basic concept go to this and look at the four videos that are available. (only three are linked there) https://github.com/Azgaar/Fantasy-Map-Generator/wiki/GIS-data-export
+Currently it holds the fantasy map called Chevillia. I created this one for my own purpose with the Azgaar Generator and QGis but anyone can use it if they want to. You can also create your own maps and implement them into the engine and one day I will write a documentation for it but not today. If you want a basic concept go to this and look at the four videos that are available. (only three are linked there) https://github.com/Azgaar/Fantasy-Map-Generator/wiki/GIS-data-export It is time consuming but very well explained in these videos, although a few things have been added without it, but once you know the gist that becomes a piece of cake.
 
 # Ink - What is it?
 
@@ -31,11 +33,15 @@ In our case Ink provides the backbone of the engine by being the engine itself t
   * EXP System
   * Leveling System
 * Inventory System
+* System that reveals stats of enemies depending on Wisdom of the character
 
 # Planned Features and those which I am thinking about (Inky):
 
+* Shop System (Planned/Thought about)
+* Luck bases Crits (Planned)
+* Having different types of monsters in the same map 
 * Implement treasure pool to get items after a treasure has been found on the map
-* Split all files, functions, etc. to their own files for better readability?
+* Split all files, functions, etc. to their own files for better readability? (Done/Planned for all following files)
 
 # Wishfull thinking when it comes to features (help appreciated):
 
