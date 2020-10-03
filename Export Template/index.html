@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title><!-- Insert Story Title --></title>
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" /><link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css'><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<body>
+	
+<!-- this is the Inky part -->
+	
+    <div class="outerContainer">
+        <h3 class="written-in-ink"><a href="https://www.inklestudios.com/ink">WRITTEN IN INK</a></h3>
+
+        <div id="controls" class="buttons">
+          <a id="rewind" title="Restart story from beginning">restart</a>
+          <a id="save" title="Save progress">save</a>
+          <a id="reload" title="Reload from save point">load</a>
+          <a id="theme-switch" title="Switch theme">theme</a>
+        </div>
+
+        <div id="story" class="container">
+            <div class="header">
+                <h1>##STORY TITLE##</h1> <!-- change story title -->
+                <h2 class="byline"></h2>
+            </div>
+        </div>
+    </div>
+
+    <script src="ink.js"></script>
+    <script src="Example.js"></script><!-- this is where the story.js goes -->
+    <script src="main.js"></script>
+
+<!-- this is where the inceractive map starts -->
+
+<nav class="nav">
+    <div class="nav__container"><!-- what allows the nav to be scrollable -->
+        <nav id="menu"></nav><!-- the nav from the interactive map that allows the switching of layers -->
+    </div>
+</nav>
+
+<div id="map"></div><!-- the actual interactive map -->
+<!-- partial -->
+  <script src='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>
