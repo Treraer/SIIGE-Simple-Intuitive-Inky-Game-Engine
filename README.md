@@ -37,6 +37,7 @@ In our case Ink provides the backbone of the engine by being the engine itself t
 
 # Planned Features and those which I am thinking about (Inky):
 
+* Tutorial Example (Planned)
 * Shop System (Planned/Thought about)
 * Luck bases Crits (Planned)
 * Having different types of monsters in the same map 
